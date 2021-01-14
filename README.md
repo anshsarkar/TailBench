@@ -102,7 +102,7 @@ Note on SPECjbb
 Since SPECjbb is not freely available, we do not include it in the TailBench
 distribution. Instead, the specjbb directory contains a patch file
 (tailbench.patch) that can be applied to a pristine copy of SPECjbb2005 to
-obtain the version used in the TailBench paper.\
+obtain the version used in the TailBench paper.
 
 NOTE
 =====
